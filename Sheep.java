@@ -1,7 +1,4 @@
-public class
-
-
-Sheep implements Animal {
+public class Sheep implements Animal {
     private int legs;
     private String sound;
     private String food;
